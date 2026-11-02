@@ -23,6 +23,11 @@ O site reune uma lista de acesso rapido para os sites abaixo mais utilizados pel
 - YouTube
 
 ---
+# Link de Acesso ao Site
+
+https://barbaraoliveiraa.github.io/Site-Favorito/
+
+---
 
 # Como Executar o Projeto
 
